@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kasauygulama\kasauygulama\bin\Debug\kasauygulama.exe.config
+C:\Users\User\source\repos\kasauygulama\kasauygulama\bin\Debug\kasauygulama.exe
+C:\Users\User\source\repos\kasauygulama\kasauygulama\bin\Debug\kasauygulama.pdb
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.Form1.resources
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.Properties.Resources.resources
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.exe
+C:\Users\User\source\repos\kasauygulama\kasauygulama\obj\Debug\kasauygulama.pdb
